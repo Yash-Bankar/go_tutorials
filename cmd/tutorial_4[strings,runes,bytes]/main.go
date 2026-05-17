@@ -25,3 +25,16 @@ func main() {
 	var catStr = strBuilder.String()
 	fmt.Printf("\n%v", catStr)
 }
+
+/*
+233, int320 114
+1 233
+2 115
+3 117
+4 109
+5 233
+
+ the length of string is 6
+ myRune = 97
+subscribe%   
+*/
